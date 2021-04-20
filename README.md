@@ -11,8 +11,9 @@
 - Usually, my work is based on web technology.
 - Check out my [portfolio](https://parkminwook.com/)!!
 
-
-I'm currently looking for a job.
+### One more thing ✨
+- I'm currently looking for a job. Don't hesitate to contact me.
+- Have a nice day:)
 
 <!--
 **wooknick/wooknick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
