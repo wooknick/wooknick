@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello 👋
+- I'm a playful experience designer.
+- I'm interested in everything that makes life fun.
+
+### Interests 🍀
+- Web Interaction
+- Creative Visualiztion
+- Gamification
+
+### Works 💎
+- Usually, my work is based on web technology.
+- Check out my [portfolio](https://parkminwook.com/)!!
+
+
+I'm currently looking for a job.
 
 <!--
 **wooknick/wooknick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
