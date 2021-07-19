@@ -1,3 +1,6 @@
+[![sooknick's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooknick&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hello 👋
 - I'm a playful experience designer.
 - I'm interested in everything that makes life fun.
