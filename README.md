@@ -15,7 +15,7 @@
 - Check out my [portfolio](https://parkminwook.com/)!!
 
 ### One more thing ✨
-- I'm currently looking for a job. Don't hesitate to contact me.
+- Any collaboration is welcome. Don't hesitate to contact me.
 - Have a nice day:)
 
 <!--
